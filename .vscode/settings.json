@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "Aneuploid",
+    "euploid",
+    "inplace"
+  ],
+  "python.defaultInterpreterPath": "./src/env/bin/python"
+}
